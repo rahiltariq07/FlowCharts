@@ -1,2 +1,2 @@
 # FlowCharts
-Repo on FlowCharts
+Repository on FlowCharts
